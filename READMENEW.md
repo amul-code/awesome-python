@@ -138,7 +138,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [uvicorn](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
 
 ## Asynchronous Programming
-
+* Asynchronous Programming is controlling the timing of operations by the use of pulses sent when the previous operation is completed rather than at regular intervals.
 * [asyncio](https://docs.python.org/3/library/asyncio.html) - (Python standard library) Asynchronous I/O, event loop, coroutines and tasks.
     - [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio)
 * [trio](https://github.com/python-trio/trio) - A friendly library for async concurrency and I/O.
